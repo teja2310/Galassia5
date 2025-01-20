@@ -1,0 +1,183 @@
+2024-11-05 15:41:05,782 - INFO - __init__.py:84 - First time Hailo Dataflow Compiler is being used. Checking system requirements... (this might take a few seconds)
+2024-11-05 15:41:48,678 - INFO - main.py:34 - Current Time: 15:41:48, 11/05/24
+2024-11-05 15:41:49,689 - INFO - main.py:46 - CPU: Architecture: x86_64, Model: 13th Gen Intel(R) Core(TM) i7-13700H, Number Of Cores: 20, Utilization: 0.0%
+2024-11-05 15:41:49,691 - INFO - main.py:50 - Memory: Total: 7GB, Available: 6GB
+2024-11-05 15:41:49,691 - INFO - main.py:54 - System info: OS: Linux, Kernel: 5.15.153.1-microsoft-standard-WSL2
+2024-11-05 15:41:49,692 - INFO - main.py:55 - Hailo DFC Version: 3.29.0
+2024-11-05 15:41:49,701 - INFO - main.py:60 - HailoRT Version: Not Installed
+2024-11-05 15:41:49,713 - INFO - main.py:76 - PCIe: No Hailo PCIe device was found
+2024-11-05 15:41:49,713 - INFO - main.py:109 - Running `hailo -h`
+2024-11-05 15:45:16,180 - INFO - main.py:34 - Current Time: 15:45:16, 11/05/24
+2024-11-05 15:45:17,192 - INFO - main.py:46 - CPU: Architecture: x86_64, Model: 13th Gen Intel(R) Core(TM) i7-13700H, Number Of Cores: 20, Utilization: 0.0%
+2024-11-05 15:45:17,193 - INFO - main.py:50 - Memory: Total: 7GB, Available: 6GB
+2024-11-05 15:45:17,193 - INFO - main.py:54 - System info: OS: Linux, Kernel: 5.15.153.1-microsoft-standard-WSL2
+2024-11-05 15:45:17,194 - INFO - main.py:55 - Hailo DFC Version: 3.29.0
+2024-11-05 15:45:17,213 - INFO - main.py:60 - HailoRT Version: Not Installed
+2024-11-05 15:45:17,220 - INFO - main.py:76 - PCIe: No Hailo PCIe device was found
+2024-11-05 15:45:17,220 - INFO - main.py:109 - Running `hailo tutorial`
+2024-11-05 16:15:31,398 - INFO - main.py:34 - Current Time: 16:15:31, 11/05/24
+2024-11-05 16:15:32,416 - INFO - main.py:46 - CPU: Architecture: x86_64, Model: 13th Gen Intel(R) Core(TM) i7-13700H, Number Of Cores: 20, Utilization: 0.0%
+2024-11-05 16:15:32,417 - INFO - main.py:50 - Memory: Total: 7GB, Available: 5GB
+2024-11-05 16:15:32,418 - INFO - main.py:54 - System info: OS: Linux, Kernel: 5.15.153.1-microsoft-standard-WSL2
+2024-11-05 16:15:32,418 - INFO - main.py:55 - Hailo DFC Version: 3.29.0
+2024-11-05 16:15:32,427 - INFO - main.py:60 - HailoRT Version: Not Installed
+2024-11-05 16:15:32,447 - INFO - main.py:76 - PCIe: No Hailo PCIe device was found
+2024-11-05 16:15:32,447 - INFO - main.py:109 - Running `hailo`
+2024-11-05 16:19:38,955 - INFO - main.py:34 - Current Time: 16:19:38, 11/05/24
+2024-11-05 16:19:39,969 - INFO - main.py:46 - CPU: Architecture: x86_64, Model: 13th Gen Intel(R) Core(TM) i7-13700H, Number Of Cores: 20, Utilization: 0.0%
+2024-11-05 16:19:39,971 - INFO - main.py:50 - Memory: Total: 7GB, Available: 5GB
+2024-11-05 16:19:39,971 - INFO - main.py:54 - System info: OS: Linux, Kernel: 5.15.153.1-microsoft-standard-WSL2
+2024-11-05 16:19:39,972 - INFO - main.py:55 - Hailo DFC Version: 3.29.0
+2024-11-05 16:19:39,981 - INFO - main.py:60 - HailoRT Version: Not Installed
+2024-11-05 16:19:39,991 - INFO - main.py:76 - PCIe: No Hailo PCIe device was found
+2024-11-05 16:19:39,991 - INFO - main.py:109 - Running `hailo compiler --help`
+2024-11-05 16:20:36,220 - INFO - main.py:34 - Current Time: 16:20:36, 11/05/24
+2024-11-05 16:20:37,232 - INFO - main.py:46 - CPU: Architecture: x86_64, Model: 13th Gen Intel(R) Core(TM) i7-13700H, Number Of Cores: 20, Utilization: 0.0%
+2024-11-05 16:20:37,233 - INFO - main.py:50 - Memory: Total: 7GB, Available: 5GB
+2024-11-05 16:20:37,233 - INFO - main.py:54 - System info: OS: Linux, Kernel: 5.15.153.1-microsoft-standard-WSL2
+2024-11-05 16:20:37,234 - INFO - main.py:55 - Hailo DFC Version: 3.29.0
+2024-11-05 16:20:37,241 - INFO - main.py:60 - HailoRT Version: Not Installed
+2024-11-05 16:20:37,251 - INFO - main.py:76 - PCIe: No Hailo PCIe device was found
+2024-11-05 16:20:37,251 - INFO - main.py:109 - Running `hailo compiler --hw-arch hailo8 --model-script best.onnx`
+2024-11-05 16:21:37,694 - INFO - main.py:34 - Current Time: 16:21:37, 11/05/24
+2024-11-05 16:21:38,711 - INFO - main.py:46 - CPU: Architecture: x86_64, Model: 13th Gen Intel(R) Core(TM) i7-13700H, Number Of Cores: 20, Utilization: 0.0%
+2024-11-05 16:21:38,712 - INFO - main.py:50 - Memory: Total: 7GB, Available: 5GB
+2024-11-05 16:21:38,712 - INFO - main.py:54 - System info: OS: Linux, Kernel: 5.15.153.1-microsoft-standard-WSL2
+2024-11-05 16:21:38,713 - INFO - main.py:55 - Hailo DFC Version: 3.29.0
+2024-11-05 16:21:38,723 - INFO - main.py:60 - HailoRT Version: Not Installed
+2024-11-05 16:21:38,746 - INFO - main.py:76 - PCIe: No Hailo PCIe device was found
+2024-11-05 16:21:38,746 - INFO - main.py:109 - Running `hailo compiler --hw-arch hailo8 --model-script best.onnx --outpur-dir compiled`
+2024-11-05 16:21:47,115 - INFO - main.py:34 - Current Time: 16:21:47, 11/05/24
+2024-11-05 16:21:48,128 - INFO - main.py:46 - CPU: Architecture: x86_64, Model: 13th Gen Intel(R) Core(TM) i7-13700H, Number Of Cores: 20, Utilization: 0.0%
+2024-11-05 16:21:48,128 - INFO - main.py:50 - Memory: Total: 7GB, Available: 5GB
+2024-11-05 16:21:48,128 - INFO - main.py:54 - System info: OS: Linux, Kernel: 5.15.153.1-microsoft-standard-WSL2
+2024-11-05 16:21:48,128 - INFO - main.py:55 - Hailo DFC Version: 3.29.0
+2024-11-05 16:21:48,134 - INFO - main.py:60 - HailoRT Version: Not Installed
+2024-11-05 16:21:48,152 - INFO - main.py:76 - PCIe: No Hailo PCIe device was found
+2024-11-05 16:21:48,152 - INFO - main.py:109 - Running `hailo compiler --hw-arch hailo8 --model-script best.onnx --output-dir compiled`
+2024-11-05 16:25:41,712 - INFO - parser.py:158 - Translation started on ONNX model yolov8n
+2024-11-05 16:25:41,752 - INFO - parser.py:193 - Restored ONNX model yolov8n (completion time: 00:00:00.04)
+2024-11-05 16:25:41,951 - INFO - parser.py:216 - Extracted ONNXRuntime meta-data for Hailo model (completion time: 00:00:00.24)
+2024-11-05 16:25:42,063 - WARNING - parser.py:314 - ONNX shape inference failed: [ONNXRuntimeError] : 2 : INVALID_ARGUMENT : Failed to load model with error: /onnxruntime_src/onnxruntime/core/graph/model.cc:146 onnxruntime::Model::Model(onnx::ModelProto&&, const PathString&, const IOnnxRuntimeOpSchemaRegistryList*, const onnxruntime::logging::Logger&, const onnxruntime::ModelOptions&) Unsupported model IR version: 9, max supported IR version: 8
+
+2024-11-05 16:25:42,222 - INFO - parser.py:257 - Unable to simplify the model: '/model.2/Split_output_0'
+2024-11-05 16:46:25,283 - INFO - parser.py:158 - Translation started on ONNX model yolov8n
+2024-11-05 16:46:25,323 - INFO - parser.py:193 - Restored ONNX model yolov8n (completion time: 00:00:00.04)
+2024-11-05 16:46:25,543 - INFO - parser.py:216 - Extracted ONNXRuntime meta-data for Hailo model (completion time: 00:00:00.26)
+2024-11-05 16:46:25,671 - WARNING - parser.py:314 - ONNX shape inference failed: [ONNXRuntimeError] : 2 : INVALID_ARGUMENT : Failed to load model with error: /onnxruntime_src/onnxruntime/core/graph/model.cc:146 onnxruntime::Model::Model(onnx::ModelProto&&, const PathString&, const IOnnxRuntimeOpSchemaRegistryList*, const onnxruntime::logging::Logger&, const onnxruntime::ModelOptions&) Unsupported model IR version: 9, max supported IR version: 8
+
+2024-11-05 16:46:25,836 - INFO - parser.py:257 - Unable to simplify the model: '/model.2/Split_output_0'
+2024-11-05 16:52:03,838 - INFO - parser.py:158 - Translation started on ONNX model yolov8n
+2024-11-05 16:52:03,885 - INFO - parser.py:193 - Restored ONNX model yolov8n (completion time: 00:00:00.05)
+2024-11-05 16:52:04,101 - INFO - parser.py:216 - Extracted ONNXRuntime meta-data for Hailo model (completion time: 00:00:00.26)
+2024-11-05 16:52:04,226 - WARNING - parser.py:314 - ONNX shape inference failed: [ONNXRuntimeError] : 2 : INVALID_ARGUMENT : Failed to load model with error: /onnxruntime_src/onnxruntime/core/graph/model.cc:146 onnxruntime::Model::Model(onnx::ModelProto&&, const PathString&, const IOnnxRuntimeOpSchemaRegistryList*, const onnxruntime::logging::Logger&, const onnxruntime::ModelOptions&) Unsupported model IR version: 9, max supported IR version: 8
+
+2024-11-05 16:52:04,396 - INFO - parser.py:257 - Unable to simplify the model: '/model.2/Split_output_0'
+2024-11-05 16:52:32,174 - INFO - parser.py:158 - Translation started on ONNX model yolov8n
+2024-11-05 16:52:58,903 - INFO - parser.py:158 - Translation started on ONNX model yolov8n
+2024-11-05 16:52:58,937 - INFO - parser.py:193 - Restored ONNX model yolov8n (completion time: 00:00:00.03)
+2024-11-05 16:52:59,149 - INFO - parser.py:216 - Extracted ONNXRuntime meta-data for Hailo model (completion time: 00:00:00.25)
+2024-11-05 16:52:59,264 - WARNING - parser.py:314 - ONNX shape inference failed: [ONNXRuntimeError] : 2 : INVALID_ARGUMENT : Failed to load model with error: /onnxruntime_src/onnxruntime/core/graph/model.cc:146 onnxruntime::Model::Model(onnx::ModelProto&&, const PathString&, const IOnnxRuntimeOpSchemaRegistryList*, const onnxruntime::logging::Logger&, const onnxruntime::ModelOptions&) Unsupported model IR version: 9, max supported IR version: 8
+
+2024-11-05 16:52:59,426 - INFO - parser.py:257 - Unable to simplify the model: '/model.2/Split_output_0'
+2024-11-05 16:56:26,414 - INFO - parser.py:158 - Translation started on ONNX model yolov8n
+2024-11-05 16:56:26,465 - INFO - parser.py:193 - Restored ONNX model yolov8n (completion time: 00:00:00.05)
+2024-11-05 16:56:26,697 - INFO - parser.py:216 - Extracted ONNXRuntime meta-data for Hailo model (completion time: 00:00:00.28)
+2024-11-05 16:56:26,813 - WARNING - parser.py:314 - ONNX shape inference failed: [ONNXRuntimeError] : 2 : INVALID_ARGUMENT : Failed to load model with error: /onnxruntime_src/onnxruntime/core/graph/model.cc:146 onnxruntime::Model::Model(onnx::ModelProto&&, const PathString&, const IOnnxRuntimeOpSchemaRegistryList*, const onnxruntime::logging::Logger&, const onnxruntime::ModelOptions&) Unsupported model IR version: 9, max supported IR version: 8
+
+2024-11-05 16:56:26,975 - INFO - parser.py:257 - Unable to simplify the model: '/model.2/Split_output_0'
+2024-11-05 17:31:08,627 - INFO - parser.py:158 - Translation started on ONNX model yolov8n
+2024-11-05 17:31:08,673 - INFO - parser.py:193 - Restored ONNX model yolov8n (completion time: 00:00:00.05)
+2024-11-05 17:31:08,878 - INFO - parser.py:216 - Extracted ONNXRuntime meta-data for Hailo model (completion time: 00:00:00.25)
+2024-11-05 17:31:08,999 - WARNING - parser.py:314 - ONNX shape inference failed: [ONNXRuntimeError] : 2 : INVALID_ARGUMENT : Failed to load model with error: /onnxruntime_src/onnxruntime/core/graph/model.cc:146 onnxruntime::Model::Model(onnx::ModelProto&&, const PathString&, const IOnnxRuntimeOpSchemaRegistryList*, const onnxruntime::logging::Logger&, const onnxruntime::ModelOptions&) Unsupported model IR version: 9, max supported IR version: 8
+
+2024-11-05 17:31:09,151 - INFO - parser.py:257 - Unable to simplify the model: '/model.2/Split_output_0'
+2024-11-05 17:38:09,784 - INFO - main.py:34 - Current Time: 17:38:09, 11/05/24
+2024-11-05 17:38:10,800 - INFO - main.py:46 - CPU: Architecture: x86_64, Model: 13th Gen Intel(R) Core(TM) i7-13700H, Number Of Cores: 20, Utilization: 0.0%
+2024-11-05 17:38:10,812 - INFO - main.py:50 - Memory: Total: 7GB, Available: 5GB
+2024-11-05 17:38:10,813 - INFO - main.py:54 - System info: OS: Linux, Kernel: 5.15.153.1-microsoft-standard-WSL2
+2024-11-05 17:38:10,813 - INFO - main.py:55 - Hailo DFC Version: 3.29.0
+2024-11-05 17:38:10,824 - INFO - main.py:60 - HailoRT Version: Not Installed
+2024-11-05 17:38:10,835 - INFO - main.py:76 - PCIe: No Hailo PCIe device was found
+2024-11-05 17:38:10,836 - INFO - main.py:109 - Running `hailo parser onnx best.onnx --end-node-names /model.22/cv2.0/cv2.0.2/Conv /model.22/cv3.0/cv3.0.2/Conv /model.22/cv2.1/cv2.1.2/Conv /model.22/cv3.1/cv3.1.2/Conv /model.22/cv2.2/cv2.2.2/Conv /model.22/cv3.2/cv3.2.2/Conv`
+2024-11-05 17:38:10,850 - INFO - parser.py:158 - Translation started on ONNX model best
+2024-11-05 17:38:10,895 - INFO - parser.py:193 - Restored ONNX model best (completion time: 00:00:00.04)
+2024-11-05 17:38:11,071 - INFO - parser.py:216 - Extracted ONNXRuntime meta-data for Hailo model (completion time: 00:00:00.22)
+2024-11-05 17:38:11,177 - WARNING - parser.py:314 - ONNX shape inference failed: [ONNXRuntimeError] : 2 : INVALID_ARGUMENT : Failed to load model with error: /onnxruntime_src/onnxruntime/core/graph/model.cc:146 onnxruntime::Model::Model(onnx::ModelProto&&, const PathString&, const IOnnxRuntimeOpSchemaRegistryList*, const onnxruntime::logging::Logger&, const onnxruntime::ModelOptions&) Unsupported model IR version: 9, max supported IR version: 8
+
+2024-11-05 17:38:11,427 - INFO - parser.py:257 - Unable to simplify the model: '/model.2/Split_output_0'
+2024-11-05 18:22:25,594 - INFO - parser.py:158 - Translation started on ONNX model yolov8n
+2024-11-05 18:22:25,719 - INFO - parser.py:193 - Restored ONNX model yolov8n (completion time: 00:00:00.13)
+2024-11-05 18:22:26,046 - INFO - parser.py:216 - Extracted ONNXRuntime meta-data for Hailo model (completion time: 00:00:00.45)
+2024-11-05 18:22:26,167 - WARNING - parser.py:314 - ONNX shape inference failed: [ONNXRuntimeError] : 2 : INVALID_ARGUMENT : Failed to load model with error: /onnxruntime_src/onnxruntime/core/graph/model.cc:146 onnxruntime::Model::Model(onnx::ModelProto&&, const PathString&, const IOnnxRuntimeOpSchemaRegistryList*, const onnxruntime::logging::Logger&, const onnxruntime::ModelOptions&) Unsupported model IR version: 9, max supported IR version: 8
+
+2024-11-05 18:22:26,340 - INFO - parser.py:257 - Unable to simplify the model: '/model.2/Split_output_0'
+2024-11-06 00:26:13,497 - INFO - parser.py:158 - Translation started on ONNX model yolov8n
+2024-11-06 00:26:13,540 - INFO - parser.py:193 - Restored ONNX model yolov8n (completion time: 00:00:00.04)
+2024-11-06 00:26:13,768 - INFO - parser.py:216 - Extracted ONNXRuntime meta-data for Hailo model (completion time: 00:00:00.27)
+2024-11-06 00:26:13,903 - WARNING - parser.py:314 - ONNX shape inference failed: [ONNXRuntimeError] : 2 : INVALID_ARGUMENT : Failed to load model with error: /onnxruntime_src/onnxruntime/core/graph/model_load_utils.h:47 void onnxruntime::model_load_utils::ValidateOpsetForDomain(const std::unordered_map<std::basic_string<char>, int>&, const onnxruntime::logging::Logger&, bool, const string&, int) ONNX Runtime only *guarantees* support for models stamped with official released onnx opset versions. Opset 18 is under development and support for this is limited. The operator schemas and or other functionality may change before next ONNX release and in this case ONNX Runtime will not guarantee backward compatibility. Current official support for domain ai.onnx is till opset 17.
+
+2024-11-06 00:26:14,074 - INFO - parser.py:257 - Unable to simplify the model: '/model.2/Split_output_0'
+2024-11-06 00:26:42,067 - INFO - parser.py:158 - Translation started on ONNX model yolov8n
+2024-11-06 00:26:42,102 - INFO - parser.py:193 - Restored ONNX model yolov8n (completion time: 00:00:00.04)
+2024-11-06 00:26:42,335 - INFO - parser.py:216 - Extracted ONNXRuntime meta-data for Hailo model (completion time: 00:00:00.27)
+2024-11-06 00:26:42,959 - INFO - onnx_translator.py:2482 - NMS structure of yolov8 (or equivalent architecture) was detected.
+2024-11-06 00:26:42,959 - INFO - onnx_translator.py:2484 - In order to use HailoRT post-processing capabilities, these end node names should be used: /model.22/cv2.0/cv2.0.2/Conv /model.22/cv3.0/cv3.0.2/Conv /model.22/cv2.1/cv2.1.2/Conv /model.22/cv3.1/cv3.1.2/Conv /model.22/cv2.2/cv2.2.2/Conv /model.22/cv3.2/cv3.2.2/Conv.
+2024-11-06 00:26:43,036 - INFO - parser.py:373 - Start nodes mapped from original model: 'images': 'yolov8n/input_layer1'.
+2024-11-06 00:26:43,036 - INFO - parser.py:374 - End nodes mapped from original model: '/model.22/cv2.0/cv2.0.2/Conv', '/model.22/cv3.0/cv3.0.2/Conv', '/model.22/cv2.1/cv2.1.2/Conv', '/model.22/cv3.1/cv3.1.2/Conv', '/model.22/cv2.2/cv2.2.2/Conv', '/model.22/cv3.2/cv3.2.2/Conv'.
+2024-11-06 00:26:43,101 - INFO - parser.py:288 - Translation completed on ONNX model yolov8n (completion time: 00:00:01.04)
+2024-11-06 00:26:43,979 - INFO - client_runner.py:1831 - Saved HAR to: /home/grace/yolov8n.har
+2024-11-06 00:32:02,619 - INFO - main.py:34 - Current Time: 00:32:02, 11/06/24
+2024-11-06 00:32:03,738 - INFO - main.py:46 - CPU: Architecture: x86_64, Model: 13th Gen Intel(R) Core(TM) i7-13700H, Number Of Cores: 20, Utilization: 0.0%
+2024-11-06 00:32:03,738 - INFO - main.py:50 - Memory: Total: 7GB, Available: 6GB
+2024-11-06 00:32:03,738 - INFO - main.py:54 - System info: OS: Linux, Kernel: 5.15.153.1-microsoft-standard-WSL2
+2024-11-06 00:32:03,739 - INFO - main.py:55 - Hailo DFC Version: 3.29.0
+2024-11-06 00:32:03,746 - INFO - main.py:60 - HailoRT Version: Not Installed
+2024-11-06 00:32:03,762 - INFO - main.py:76 - PCIe: No Hailo PCIe device was found
+2024-11-06 00:32:03,762 - INFO - main.py:109 - Running `hailo tutorial`
+2024-11-06 00:34:31,314 - INFO - main.py:34 - Current Time: 00:34:31, 11/06/24
+2024-11-06 00:34:32,325 - INFO - main.py:46 - CPU: Architecture: x86_64, Model: 13th Gen Intel(R) Core(TM) i7-13700H, Number Of Cores: 20, Utilization: 0.0%
+2024-11-06 00:34:32,325 - INFO - main.py:50 - Memory: Total: 7GB, Available: 6GB
+2024-11-06 00:34:32,326 - INFO - main.py:54 - System info: OS: Linux, Kernel: 5.15.153.1-microsoft-standard-WSL2
+2024-11-06 00:34:32,326 - INFO - main.py:55 - Hailo DFC Version: 3.29.0
+2024-11-06 00:34:32,333 - INFO - main.py:60 - HailoRT Version: Not Installed
+2024-11-06 00:34:32,341 - INFO - main.py:76 - PCIe: No Hailo PCIe device was found
+2024-11-06 00:34:32,341 - INFO - main.py:109 - Running `hailo tutorial`
+2024-11-06 00:39:34,233 - INFO - parser.py:158 - Translation started on ONNX model yolov8n
+2024-11-06 00:39:34,285 - INFO - parser.py:193 - Restored ONNX model yolov8n (completion time: 00:00:00.05)
+2024-11-06 00:39:34,483 - INFO - parser.py:216 - Extracted ONNXRuntime meta-data for Hailo model (completion time: 00:00:00.25)
+2024-11-06 00:39:35,051 - INFO - onnx_translator.py:2482 - NMS structure of yolov8 (or equivalent architecture) was detected.
+2024-11-06 00:39:35,051 - INFO - onnx_translator.py:2484 - In order to use HailoRT post-processing capabilities, these end node names should be used: /model.22/cv2.0/cv2.0.2/Conv /model.22/cv3.0/cv3.0.2/Conv /model.22/cv2.1/cv2.1.2/Conv /model.22/cv3.1/cv3.1.2/Conv /model.22/cv2.2/cv2.2.2/Conv /model.22/cv3.2/cv3.2.2/Conv.
+2024-11-06 00:39:35,102 - INFO - parser.py:373 - Start nodes mapped from original model: 'images': 'yolov8n/input_layer1'.
+2024-11-06 00:39:35,102 - INFO - parser.py:374 - End nodes mapped from original model: '/model.22/cv2.0/cv2.0.2/Conv', '/model.22/cv3.0/cv3.0.2/Conv', '/model.22/cv2.1/cv2.1.2/Conv', '/model.22/cv3.1/cv3.1.2/Conv', '/model.22/cv2.2/cv2.2.2/Conv', '/model.22/cv3.2/cv3.2.2/Conv'.
+2024-11-06 00:39:35,154 - INFO - parser.py:288 - Translation completed on ONNX model yolov8n (completion time: 00:00:00.92)
+2024-11-06 00:39:36,016 - INFO - client_runner.py:1831 - Saved HAR to: /home/grace/yolov8n.har
+2024-11-06 00:39:36,445 - INFO - client_runner.py:476 - Loading model script commands to yolov8n from /home/grace/hailo_model_zoo/hailo_model_zoo/cfg/alls/generic/yolov8n.alls
+2024-11-06 00:39:36,478 - INFO - client_runner.py:479 - Loading model script commands to yolov8n from string
+2024-11-06 00:39:37,208 - IMPORTANT - sdk_backend.py:1009 - Starting Model Optimization
+2024-11-06 00:40:16,523 - IMPORTANT - sdk_backend.py:1050 - Model Optimization is done
+2024-11-06 00:40:16,999 - INFO - client_runner.py:1831 - Saved HAR to: /home/grace/yolov8n.har
+2024-11-06 00:40:17,001 - INFO - client_runner.py:476 - Loading model script commands to yolov8n from /home/grace/hailo_model_zoo/hailo_model_zoo/cfg/alls/generic/yolov8n.alls
+2024-11-06 00:40:17,032 - INFO - commands.py:4064 - ParsedPerformanceParam command, setting optimization_level(max=2)
+2024-11-06 00:40:17,032 - INFO - client_runner.py:479 - Appending model script commands to yolov8n from string
+2024-11-06 00:40:17,037 - INFO - commands.py:4064 - ParsedPerformanceParam command, setting optimization_level(max=2)
+2024-11-06 00:52:34,540 - INFO - client_runner.py:1831 - Saved HAR to: /home/grace/yolov8n.har
+2024-11-06 15:08:02,812 - INFO - parser.py:158 - Translation started on ONNX model yolov8n
+2024-11-06 15:08:02,871 - INFO - parser.py:193 - Restored ONNX model yolov8n (completion time: 00:00:00.06)
+2024-11-06 15:08:03,085 - INFO - parser.py:216 - Extracted ONNXRuntime meta-data for Hailo model (completion time: 00:00:00.27)
+2024-11-06 15:08:03,617 - INFO - onnx_translator.py:2482 - NMS structure of yolov8 (or equivalent architecture) was detected.
+2024-11-06 15:08:03,617 - INFO - onnx_translator.py:2484 - In order to use HailoRT post-processing capabilities, these end node names should be used: /model.22/cv2.0/cv2.0.2/Conv /model.22/cv3.0/cv3.0.2/Conv /model.22/cv2.1/cv2.1.2/Conv /model.22/cv3.1/cv3.1.2/Conv /model.22/cv2.2/cv2.2.2/Conv /model.22/cv3.2/cv3.2.2/Conv.
+2024-11-06 15:08:03,667 - INFO - parser.py:373 - Start nodes mapped from original model: 'images': 'yolov8n/input_layer1'.
+2024-11-06 15:08:03,668 - INFO - parser.py:374 - End nodes mapped from original model: '/model.22/cv2.0/cv2.0.2/Conv', '/model.22/cv3.0/cv3.0.2/Conv', '/model.22/cv2.1/cv2.1.2/Conv', '/model.22/cv3.1/cv3.1.2/Conv', '/model.22/cv2.2/cv2.2.2/Conv', '/model.22/cv3.2/cv3.2.2/Conv'.
+2024-11-06 15:08:03,722 - INFO - parser.py:288 - Translation completed on ONNX model yolov8n (completion time: 00:00:00.91)
+2024-11-06 15:08:04,511 - INFO - client_runner.py:1831 - Saved HAR to: /home/grace/yolov8n.har
+2024-11-06 15:08:04,917 - INFO - client_runner.py:476 - Loading model script commands to yolov8n from /home/grace/hailo_model_zoo/hailo_model_zoo/cfg/alls/generic/yolov8n.alls
+2024-11-06 15:08:04,945 - INFO - client_runner.py:479 - Loading model script commands to yolov8n from string
+2024-11-06 15:08:05,670 - IMPORTANT - sdk_backend.py:1009 - Starting Model Optimization
+2024-11-06 15:08:47,899 - IMPORTANT - sdk_backend.py:1050 - Model Optimization is done
+2024-11-06 15:08:48,304 - INFO - client_runner.py:1831 - Saved HAR to: /home/grace/yolov8n.har
+2024-11-06 15:08:48,306 - INFO - client_runner.py:476 - Loading model script commands to yolov8n from /home/grace/hailo_model_zoo/hailo_model_zoo/cfg/alls/generic/yolov8n.alls
+2024-11-06 15:08:48,333 - INFO - commands.py:4064 - ParsedPerformanceParam command, setting optimization_level(max=2)
+2024-11-06 15:08:48,336 - INFO - client_runner.py:479 - Appending model script commands to yolov8n from string
+2024-11-06 15:08:48,340 - INFO - commands.py:4064 - ParsedPerformanceParam command, setting optimization_level(max=2)
+2024-11-06 15:54:35,171 - INFO - client_runner.py:1831 - Saved HAR to: /home/grace/yolov8n.har

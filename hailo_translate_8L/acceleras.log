@@ -1,0 +1,34 @@
+2024-11-06 00:39:38,900 - WARNING - mo_config.py:164 - Reducing optimization level to 0 (the accuracy won't be optimized and compression won't be used) because there's less data than the recommended amount (1024), and there's no available GPU
+2024-11-06 00:39:38,901 - WARNING - mo_config.py:229 - Running model optimization with zero level of optimization is not recommended for production use and might lead to suboptimal accuracy results
+2024-11-06 00:39:38,901 - INFO - mo_script_parser.py:82 - Model received quantization params from the hn
+2024-11-06 00:39:41,180 - INFO - algorithm_base.py:143 - Starting Mixed Precision
+2024-11-06 00:39:41,622 - INFO - algorithm_base.py:159 - Mixed Precision is done (completion time is 00:00:00.44)
+2024-11-06 00:39:41,789 - INFO - algorithm_base.py:140 - LayerNorm Decomposition skipped
+2024-11-06 00:39:42,146 - INFO - algorithm_base.py:143 - Starting Statistics Collector
+2024-11-06 00:39:42,152 - INFO - stats_collection.py:76 - Using dataset with 64 entries for calibration
+2024-11-06 00:40:05,358 - INFO - algorithm_base.py:159 - Statistics Collector is done (completion time is 00:00:23.21)
+2024-11-06 00:40:05,959 - INFO - algorithm_base.py:143 - Starting Fix zp_comp Encoding
+2024-11-06 00:40:05,960 - INFO - algorithm_base.py:159 - Fix zp_comp Encoding is done (completion time is 00:00:00.00)
+2024-11-06 00:40:05,960 - INFO - algorithm_base.py:140 - Matmul Equalization skipped
+2024-11-06 00:40:11,436 - INFO - algorithm_base.py:140 - Finetune encoding skipped
+2024-11-06 00:40:11,447 - INFO - algorithm_base.py:140 - Bias Correction skipped
+2024-11-06 00:40:11,453 - INFO - algorithm_base.py:140 - Adaround skipped
+2024-11-06 00:40:11,456 - INFO - algorithm_base.py:140 - Quantization-Aware Fine-Tuning skipped
+2024-11-06 00:40:15,319 - INFO - algorithm_base.py:140 - Layer Noise Analysis skipped
+2024-11-06 15:08:08,907 - WARNING - mo_config.py:164 - Reducing optimization level to 0 (the accuracy won't be optimized and compression won't be used) because there's less data than the recommended amount (1024), and there's no available GPU
+2024-11-06 15:08:08,907 - WARNING - mo_config.py:229 - Running model optimization with zero level of optimization is not recommended for production use and might lead to suboptimal accuracy results
+2024-11-06 15:08:08,908 - INFO - mo_script_parser.py:82 - Model received quantization params from the hn
+2024-11-06 15:08:11,285 - INFO - algorithm_base.py:143 - Starting Mixed Precision
+2024-11-06 15:08:11,760 - INFO - algorithm_base.py:159 - Mixed Precision is done (completion time is 00:00:00.47)
+2024-11-06 15:08:11,927 - INFO - algorithm_base.py:140 - LayerNorm Decomposition skipped
+2024-11-06 15:08:12,293 - INFO - algorithm_base.py:143 - Starting Statistics Collector
+2024-11-06 15:08:12,297 - INFO - stats_collection.py:76 - Using dataset with 64 entries for calibration
+2024-11-06 15:08:37,315 - INFO - algorithm_base.py:159 - Statistics Collector is done (completion time is 00:00:25.02)
+2024-11-06 15:08:37,889 - INFO - algorithm_base.py:143 - Starting Fix zp_comp Encoding
+2024-11-06 15:08:37,889 - INFO - algorithm_base.py:159 - Fix zp_comp Encoding is done (completion time is 00:00:00.00)
+2024-11-06 15:08:37,889 - INFO - algorithm_base.py:140 - Matmul Equalization skipped
+2024-11-06 15:08:43,173 - INFO - algorithm_base.py:140 - Finetune encoding skipped
+2024-11-06 15:08:43,174 - INFO - algorithm_base.py:140 - Bias Correction skipped
+2024-11-06 15:08:43,181 - INFO - algorithm_base.py:140 - Adaround skipped
+2024-11-06 15:08:43,183 - INFO - algorithm_base.py:140 - Quantization-Aware Fine-Tuning skipped
+2024-11-06 15:08:46,753 - INFO - algorithm_base.py:140 - Layer Noise Analysis skipped

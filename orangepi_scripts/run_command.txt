@@ -1,0 +1,2 @@
+python object_detection.py -n yolov8n.hef -i singapore3/images -l labels.txt
+

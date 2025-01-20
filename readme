@@ -1,0 +1,40 @@
+PLEASE FINISH READING THIS README BEFORE READING THE CODE FILES TO GET A OVERVIEW OF THE PROJECT, JUMPING STRAIGHT IN WILL BE CONFUSING!!!
+
+read the files in the following order for highest clarity: 
+
+NOTE: the external materials listed are necessary to view, it is recommened to read the relevant materials listed for the section before looking at the code
+
+
+ai materials: 
+[understand how simple ai pipeline flows] (https://medium.com/data-bistrot/a-simple-image-classifier-with-a-python-neural-network-82a5522fe48b)
+[understanding yolov8] (https://docs.ultralytics.com/models/yolov8/)
+[yolov8 github repo] (https://github.com/ultralytics/ultralytics) note that it is one of the models in the package, can be useful if you want to read the package code
+[package i used to label the data] (https://github.com/HumanSignal/labelImg) can use other tools, this just the one i used when doing 3301 project
+
+start from the mvp folder: (ai modelling part)
+consolidate_crop is a for data preparation (valid folder is some sample input outputs for this file)
+train_5m_800 is the training script for the ai model (refer to the data800 zip file for the images in this)
+
+
+hailo coprocessor materials:
+[hailo developer portal] (https://hailo.ai/developer-zone/) for reference to hailo's documentation
+[hailo rt github repo] (https://github.com/hailo-ai/hailort)
+
+then hailo_translate folder: (translate onnx file to hailo executable file [HEF] for deployment)
+command.txt contains the command to translate (so far the one that we found works)
+the logs are just for reference if want to see what happens during translation but otherwise not important
+
+
+orange pi integration materials:
+[hailo model zoo] (https://github.com/hailo-ai/hailo_model_zoo)
+[hailo example scripts] (https://github.com/hailo-ai/hailo-rpi5-examples) can be used for reference when writing new pipeline scripts
+
+last one is orangepi_scripts: (the data pipeline scripts to run image processing --> model inference --> output on the orangepi with hailo coprocessor)
+run_command.txt has the command to run the whole pipeline
+object_detection.py is the main file to look at (start reading from the args at the top then skip to main function at the bottom of the script), the rest are files containing helper classes and methods that will be called in other files
+
+
+testing scripts and past weights folders are for testing the model on laptop with cuda enabled gpu and weights file for current model respectively
+
+
+- gn07 last updated 20 Jan 2025

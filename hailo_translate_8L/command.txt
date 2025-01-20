@@ -1,0 +1,3 @@
+hailomz compile yolov8n --ckpt=best.onnx --hw-arch hailo8l --calib-path ./calib --classes 1 --performance
+
+this command is used in the wsl terminal, the files for using this command can be found there
