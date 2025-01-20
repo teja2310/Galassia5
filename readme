@@ -6,10 +6,10 @@ NOTE: the external materials listed are necessary to view, it is recommened to r
 
 
 ai materials: 
-[understand how simple ai pipeline flows] (https://medium.com/data-bistrot/a-simple-image-classifier-with-a-python-neural-network-82a5522fe48b)
-[understanding yolov8] (https://docs.ultralytics.com/models/yolov8/)
-[yolov8 github repo] (https://github.com/ultralytics/ultralytics) note that it is one of the models in the package, can be useful if you want to read the package code
-[package i used to label the data] (https://github.com/HumanSignal/labelImg) can use other tools, this just the one i used when doing 3301 project
+[understand how simple ai pipeline flows](https://medium.com/data-bistrot/a-simple-image-classifier-with-a-python-neural-network-82a5522fe48b)
+[understanding yolov8](https://docs.ultralytics.com/models/yolov8/)
+[yolov8 github repo](https://github.com/ultralytics/ultralytics) note that it is one of the models in the package, can be useful if you want to read the package code
+[package i used to label the data](https://github.com/HumanSignal/labelImg) can use other tools, this just the one i used when doing 3301 project
 
 start from the mvp folder: (ai modelling part)
 consolidate_crop is a for data preparation (valid folder is some sample input outputs for this file)
@@ -17,8 +17,8 @@ train_5m_800 is the training script for the ai model (refer to the data800 zip f
 
 
 hailo coprocessor materials:
-[hailo developer portal] (https://hailo.ai/developer-zone/) for reference to hailo's documentation
-[hailo rt github repo] (https://github.com/hailo-ai/hailort)
+[hailo developer portal](https://hailo.ai/developer-zone/) for reference to hailo's documentation
+[hailo rt github repo](https://github.com/hailo-ai/hailort)
 
 then hailo_translate folder: (translate onnx file to hailo executable file [HEF] for deployment)
 command.txt contains the command to translate (so far the one that we found works)
@@ -26,8 +26,8 @@ the logs are just for reference if want to see what happens during translation b
 
 
 orange pi integration materials:
-[hailo model zoo] (https://github.com/hailo-ai/hailo_model_zoo)
-[hailo example scripts] (https://github.com/hailo-ai/hailo-rpi5-examples) can be used for reference when writing new pipeline scripts
+[hailo model zoo](https://github.com/hailo-ai/hailo_model_zoo)
+[hailo example scripts](https://github.com/hailo-ai/hailo-rpi5-examples) can be used for reference when writing new pipeline scripts
 
 last one is orangepi_scripts: (the data pipeline scripts to run image processing --> model inference --> output on the orangepi with hailo coprocessor)
 run_command.txt has the command to run the whole pipeline
